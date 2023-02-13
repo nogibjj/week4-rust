@@ -5,8 +5,9 @@ A good starting point for a new Rust project
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
 
-![Figure](https://github.com/nogibjj/week4-rust/blob/main/Screen%20Shot%202023-02-13%20at%204.06.26%20PM.png)
+## This is a basic demo how to do error handling in rust
 
 ![Figure](https://github.com/nogibjj/week4-rust/blob/main/Screen%20Shot%202023-02-13%20at%204.06.26%20PM.png)
+
 
 
